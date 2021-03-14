@@ -1,0 +1,466 @@
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\bin\Debug\dbOffice.mdf
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\bin\Debug\dbOffice_log.ldf
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\UserControlProfile.baml
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\UserControlProfile.g.cs
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\UserControlEvent.g.cs
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\UserControlEvent.baml
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\UserControlActivities.g.cs
+D:\Visual Studio Projects\AppFinal\App_1\NavigationDrawerPopUpMenu2\obj\Debug\UserControlActivities.baml
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\dbOffice.mdf
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\dbOffice_log.ldf
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlActivities.g.cs
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlEvent.g.cs
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlProfile.g.cs
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlActivities.baml
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlEvent.baml
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlProfile.baml
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Visual Studio Projects\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlActivities.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlEvent.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlProfile.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\dbOffice.mdf
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\dbOffice_log.ldf
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlActivities.baml
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlEvent.baml
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\UserControlProfile.baml
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\Profile.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\Profile.baml
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\Event.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint\NavigationDrawerPopUpMenu2\obj\Debug\Event.baml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\bin\Debug\dbOffice.mdf
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\bin\Debug\dbOffice_log.ldf
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\Event.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\Profile.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlActivities.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlEvent.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlProfile.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\Event.baml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\Profile.baml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlActivities.baml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlEvent.baml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlProfile.baml
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+F:\Polihack v10\BreakPoint\BreakPoint B2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbOffice.mdf
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbOffice_log.ldf
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\UserControlActivities.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\UserControlEvent.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\UserControlProfile.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.baml
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.baml
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\UserControlActivities.baml
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\UserControlEvent.baml
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\UserControlProfile.baml
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.g.cs
+F:\Polihack v10\BreakPoint\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.baml
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.g.cs
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.g.cs
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.g.cs
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.baml
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.baml
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.baml
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent.mdf
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent_log.ldf
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.g.cs
+D:\PoliHack v10\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.baml
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent.mdf
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent_log.ldf
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.g.cs
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.g.cs
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.g.cs
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.g.cs
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.baml
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.baml
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.baml
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.baml
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+F:\Polihack v10\BreakPoint\StudentHub2\BreakPointF\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent.mdf
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent_log.ldf
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.g.cs
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.g.cs
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.g.cs
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.g.cs
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.baml
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.baml
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.baml
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.baml
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+D:\PoliHack v10\BreakPointF(1)\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent.mdf
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent_log.ldf
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.baml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.baml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.baml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.baml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Account.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Account.baml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\News.g.cs
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\News.baml
+D:\PoliHack v10\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent.mdf
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent_log.ldf
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Account.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\News.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Account.baml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.baml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.baml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.baml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\News.baml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.baml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Visual Studio Projects\StudHub - Final\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent.mdf
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent_log.ldf
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Account.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\News.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Account.baml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.baml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.baml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.baml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\News.baml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.baml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Visual Studio Projects\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent.mdf
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\dbStudent_log.ldf
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csprojAssemblyReference.cache
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Account.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\News.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_Content.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Account.baml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Event.baml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventSample.baml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\EventsPage.baml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\News.baml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\Profile.baml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignIn.baml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\SignUp.baml
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.GenerateResource.cache
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\BreakPoint.csproj.CopyComplete
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\big_b\Desktop\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\A\Desktop\Folders\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\A\Desktop\Folders\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+D:\Folders\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+D:\Folders\StudHub\BreakPointF\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
